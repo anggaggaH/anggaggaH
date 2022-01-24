@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anggaggaH
 - 👀 I’m interested in anything about frondend tech, music and mobile games
-- 🌱 I’m currently learning Gatsby, UI Interaction, framer-motion and display 3d 
+- 🌱 I’m currently learning VUE, UI Interaction, framer-motion and display 3d 
 - 💞️ I’m looking to collaborate on some various project for backend or frontend
 - 📫 How to reach me ...
   Website: https://anggahermawan.gatsbyjs.io/

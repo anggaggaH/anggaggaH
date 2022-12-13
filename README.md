@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Angga Hermawan<br>- 👀 I’m interested in anything about frontend tech, music, and mobile games<br>- 🌱 I’m currently learning React Native, UI Interaction, framer-motion, and display 3d <br>- 💞️ I’m looking to collaborate on various projects for backend or frontend<br>- 📫 How to reach me ...<br>  Website: https://anggahermawan.gatsbyjs.io/<br>  Email: anggah.net@gmail.com
+- 👋 Hi, I’m Angga Hermawan<br>- 👀 Frontend Developer <br>- 🌱 I’m currently learning React Native, UI Interaction, framer-motion, and display 3d <br>- 💞️ I’m looking to collaborate on various projects for backend or frontend<br>- 📫 How to reach me ...<br>  Website: https://anggahermawan.gatsbyjs.io/<br>  Email: anggah.net@gmail.com
 
 
 ## 🌐 Socials:
